@@ -8,7 +8,7 @@
    <li> Casada, amo minha família </li> 
   <li> Devota de Nª Senhora Aparecida </li> 
   <li> Apaixonada por Pandas </li> 
-  <li> Adoro jogar vôlei, dança e uma cerveja com os amigos</li>
+  <li> Adoro jogar vôlei, dançar e estar com os amigos</li>
 </ul>
 
 ## Um pouco da minha trajetória 
