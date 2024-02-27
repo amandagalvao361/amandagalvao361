@@ -26,6 +26,7 @@ Foi então que eu pedi desligamento da empresa e decidi virar a chave e mergulha
 ![Python](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-python.png)
 
 ### Conecte-se comigo
-[![LinkedIn](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-linkedin.png)](www.linkedin.com/in/amanda-galvão-dos-santos-aa316a290)
-![Instagram]([Imagens/logo-instagram.png](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-instagram.png)https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-instagram.png)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5)](www.linkedin.com/in/amanda-galvão-dos-santos-aa316a290)
+[![Instagram](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-instagram.png)](https://www.instagram.com/amandagallvao/)
+
 
