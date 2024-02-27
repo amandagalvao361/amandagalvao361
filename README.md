@@ -18,14 +18,14 @@ Foi então que eu pedi desligamento da empresa e decidi virar a chave e mergulha
 <img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/quem-sou-eu.png">
 
 ### O que você encontra aqui
-Aqui compartilho meus passos na tecnologia. Sua contribuição será muito válida para o meu desenvolvimento.
+<p> Aqui compartilho meus passos na tecnologia. Sua contribuição será muito válida.</p> 
 
 ### Tecnologias que utilizo
-![HTML5](Imagens/logo-html.png)
-![CSS3](Imagens/logo-css.png)
-![Python](Imagens/logo-python.png)
+![HTML5](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-html.png)
+![CSS3](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-css.png)
+![Python](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-python.png)
 
 ### Conecte-se comigo
-![LinkedIn](Imagens/logo-linkedin.png)
-![Instagram](Imagens/logo-instagram.png)
+[![LinkedIn](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-linkedin.png)](www.linkedin.com/in/amanda-galvão-dos-santos-aa316a290)
+![Instagram]([Imagens/logo-instagram.png](https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-instagram.png)https://github.com/amandagalvao361/imagens/blob/main/Imagens/logo-instagram.png)
 
