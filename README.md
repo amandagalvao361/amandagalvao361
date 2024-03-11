@@ -7,8 +7,7 @@
   <li> Estudante de Análise e Desenvolvimento de Sistemas </li>
    <li> Casada, amo minha família </li> 
   <li> Devota de Nª Senhora Aparecida </li> 
-  <li> Apaixonada por Pandas </li> 
-  <li> Adoro jogar vôlei, dançar e estar com os amigos</li>
+   <li> Adoro jogar vôlei, dançar e estar com os amigos</li>
 </ul>
 
 ## Um pouco da minha trajetória 
