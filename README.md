@@ -17,6 +17,8 @@ Foi então que eu pedi desligamento da empresa e decidi virar a chave e mergulha
 
 <img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/quem-sou-eu.png">
 
+<br>
+
 ### O que você encontra aqui
 <p> Aqui compartilho meus passos na tecnologia. Sua contribuição será muito válida.</p> 
 
