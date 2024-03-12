@@ -1,5 +1,5 @@
 # Amanda Galvão 
-<img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/ola-bem-vindo.png">
+<img align="right" alt="Amanda Galvão dos Santos" height="450" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/ola-bem-vindo.png">
 
 ## Quem sou eu? 
 <ul> 
@@ -15,7 +15,6 @@
 Foi então que eu pedi desligamento da empresa e decidi virar a chave e mergulhar nesse sonho, acredito que foi a melhor escolha que eu tomei.</p>
 <strong> Se você tem um sonho não desista, seja você a sua sorte! </strong>
 
-<br>
 <img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/quem-sou-eu.png">
 <br>
 
