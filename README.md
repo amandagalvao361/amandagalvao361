@@ -1,5 +1,5 @@
 # Amanda Galvão 
-<img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/amanda-foto.png">
+<img align="right" alt="Amanda Galvão dos Santos" height="500" src="https://github.com/amandagalvao361/imagens/blob/main/Imagens/ola-bem-vindo.png">
 
 ## Quem sou eu? 
 <ul> 
