@@ -3,7 +3,7 @@
 
 ## Quem sou eu? 
 <ul> 
-  <li> Amanda Galvão, 26 anos </li>
+  <li> Amanda Galvão, 27 anos </li>
   <li> Estudante de Análise e Desenvolvimento de Sistemas </li>
    <li> Casada, amo minha família </li> 
   <li> Devota de Nª Senhora Aparecida </li> 
